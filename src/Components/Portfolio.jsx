@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Product Exchange",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The goal of the ExchangeXpert project is to create a successful online platform that caters to the needs of both buyers and sellers. The website aimsbUseto provide a convenient and reliable platform for individuals to sell their products and for customers to purchase products with ease",
+    url: "https://github.com/REDDISUKESH/product-Exchange",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Blog Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The application fetches data from a public API (JSONPlaceholder) to populate the blog posts. It also includes features like pagination, responsive design for different screen sizes, and highlighting search results in post titles and content. ",
+    url: "https://66608d004f2a363ffcf9bf09--luxury-froyo-3158e0.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "AR-Ecommerce",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "AREcommerce revolutionizes e-commerce with advanced tech and innovative features, enhancing online shopping.",
+    url: "https://github.com/REDDISUKESH/AR-Ecommerce",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Mobile Application",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "We're designing an engaging landing page for our app, featuring a captivating hero section, key features, app screenshots, user testimonials, pricing plans, and easy download or contact options to drive conversions.",
+    url: "https://665ea89ec5fcfdcd37f71128--heroic-vacherin-b29d37.netlify.app/",
   },
 ];
 
